@@ -1,0 +1,20 @@
+* {
+    background-color: beige;
+}
+
+.title {
+    font-style: italic;
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 26px;
+}
+
+h1 {
+    text-align: center;
+    background-color:chocolate;
+}
+
+.small {
+    font-size: 20px;
+    background-color: aquamarine;
+}
